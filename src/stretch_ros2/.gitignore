@@ -1,0 +1,13 @@
+# Emacs related
+*~
+\#*\#
+.\#*
+
+# Python related
+*.pyc
+*.so
+
+# Vim files
+*.swp
+*.swn
+*.swo
